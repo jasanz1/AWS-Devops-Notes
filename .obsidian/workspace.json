@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4a8d85365e061c0f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d7d3ea3b24dc406",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            },
-            "group": "2c241d7ada717e95"
-          }
-        ]
-      },
-      {
         "id": "a5ebf0e8eba75881",
         "type": "tabs",
         "children": [
@@ -35,8 +17,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "2c241d7ada717e95"
+            }
           }
         ]
       }
@@ -170,7 +151,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4d7d3ea3b24dc406",
+  "active": "dff343e5bf3e2bac",
   "lastOpenFiles": [
     "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
     "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_Additional Storage Services.md",
