@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a5ebf0e8eba75881",
+        "id": "a495965d37c956cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0a1fc8bae49e281f",
+            "id": "c813e6d9ce560b90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md"
+              }
             }
           },
           {
@@ -151,10 +155,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dff343e5bf3e2bac",
+  "active": "c813e6d9ce560b90",
   "lastOpenFiles": [
-    "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
     "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_Additional Storage Services.md",
+    "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
     "Service notes/Storage/S3.md"
