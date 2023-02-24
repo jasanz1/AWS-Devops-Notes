@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8e45eeb10ea7fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,10 +168,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c813e6d9ce560b90",
+  "active": "f8e45eeb10ea7fca",
   "lastOpenFiles": [
-    "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_Additional Storage Services.md",
     "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
+    "conflict-files-obsidian-git.md",
+    "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_Additional Storage Services.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
     "Service notes/Storage/S3.md"
