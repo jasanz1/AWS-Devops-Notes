@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"a5e34245f57f65f7","x":-892,"y":-330,"width":400,"height":400,"type":"file","file":"Cloud Practitioner/1- Foundations/2 - Advantages to Cloud Computing.md"},
+		{"id":"0fd2d1d32ca48f62","x":-332,"y":-863,"width":400,"height":416,"type":"file","file":"Cloud Practitioner/1- Foundations/1 - Understanding Cloud   Computing.md","subpath":"#Examples"},
+		{"id":"f59ba4e2608fa1b3","x":193,"y":-447,"width":151,"height":53,"color":"4","type":"text","text":"Compute"},
+		{"id":"621cb6d5eaabf79f","x":-892,"y":-863,"width":400,"height":416,"type":"file","file":"Cloud Practitioner/1- Foundations/1 - Understanding Cloud   Computing.md"},
+		{"id":"a1fca60756869039","x":522,"y":-847,"width":400,"height":400,"type":"file","file":"Service notes/Compute/Lambda.md"},
+		{"id":"9b9224b290592b7c","x":962,"y":-847,"width":400,"height":400,"type":"file","file":"Service notes/Compute/Batch.md"},
+		{"id":"837457464f38f976","x":1402,"y":-847,"width":400,"height":400,"type":"file","file":"Service notes/Compute/Lightsail.md"},
+		{"id":"9adf5bbe6a8699c3","x":1842,"y":-847,"width":400,"height":400,"type":"file","file":"Service notes/Compute/EC2.md"},
+		{"id":"5531c7e8df6b0bea","x":2282,"y":-847,"width":400,"height":400,"type":"file","file":"Service notes/Compute/Outposts.md"},
+		{"id":"c8df464438e36639","x":2722,"y":-847,"width":400,"height":400,"type":"file","file":"Service notes/Compute/Fargate.md"},
+		{"id":"2f4e97d7e04d7e35","x":193,"y":-97,"width":151,"height":53,"type":"text","text":"Storage"},
+		{"id":"d744ca4630f5cdac","x":193,"y":-24,"width":151,"height":53,"type":"text","text":"Analytics"},
+		{"id":"dfa37db08efb3033","x":193,"y":49,"width":151,"height":50,"type":"text","text":"Development\n"},
+		{"id":"bc3421e28937c19f","x":193,"y":119,"width":151,"height":53,"type":"text","text":"Security"},
+		{"id":"69c0415040d69060","x":193,"y":192,"width":151,"height":53,"type":"text","text":"Databases"},
+		{"id":"5264ccc9d769e9e1","x":193,"y":-170,"width":151,"height":50,"type":"text","text":"Networking"}
+	],
+	"edges":[
+		{"id":"1285d2d8dbcd0cda","fromNode":"621cb6d5eaabf79f","fromSide":"bottom","toNode":"a5e34245f57f65f7","toSide":"top"},
+		{"id":"a46551d63cf9ea1d","fromNode":"a5e34245f57f65f7","fromSide":"top","toNode":"621cb6d5eaabf79f","toSide":"bottom"},
+		{"id":"eccca7a7c9754f2c","fromNode":"621cb6d5eaabf79f","fromSide":"right","toNode":"0fd2d1d32ca48f62","toSide":"left"},
+		{"id":"8834518d6b05e8e8","fromNode":"0fd2d1d32ca48f62","fromSide":"bottom","toNode":"f59ba4e2608fa1b3","toSide":"left"},
+		{"id":"02714826a1aa5782","fromNode":"0fd2d1d32ca48f62","fromSide":"bottom","toNode":"5264ccc9d769e9e1","toSide":"left"},
+		{"id":"6f876b975a661ea7","fromNode":"0fd2d1d32ca48f62","fromSide":"bottom","toNode":"2f4e97d7e04d7e35","toSide":"left"},
+		{"id":"1892901a5f9f6ebc","fromNode":"0fd2d1d32ca48f62","fromSide":"bottom","toNode":"d744ca4630f5cdac","toSide":"left"},
+		{"id":"556ea4d399f9af3b","fromNode":"0fd2d1d32ca48f62","fromSide":"bottom","toNode":"dfa37db08efb3033","toSide":"left"},
+		{"id":"dde46d60a83e91c4","fromNode":"0fd2d1d32ca48f62","fromSide":"bottom","toNode":"bc3421e28937c19f","toSide":"left"},
+		{"id":"96862b9c63601f9b","fromNode":"0fd2d1d32ca48f62","fromSide":"bottom","toNode":"69c0415040d69060","toSide":"left"},
+		{"id":"2761faae4be3ed9b","fromNode":"f59ba4e2608fa1b3","fromSide":"right","toNode":"a1fca60756869039","toSide":"bottom"},
+		{"id":"5617aecba1f17e2d","fromNode":"f59ba4e2608fa1b3","fromSide":"right","toNode":"9b9224b290592b7c","toSide":"bottom"},
+		{"id":"dc032fe8822a7853","fromNode":"f59ba4e2608fa1b3","fromSide":"right","toNode":"837457464f38f976","toSide":"bottom"},
+		{"id":"802ccec874f95fb4","fromNode":"f59ba4e2608fa1b3","fromSide":"right","toNode":"9adf5bbe6a8699c3","toSide":"bottom"},
+		{"id":"729f195d62e0097d","fromNode":"f59ba4e2608fa1b3","fromSide":"right","toNode":"5531c7e8df6b0bea","toSide":"bottom"},
+		{"id":"e8ad021b42fd8d3a","fromNode":"f59ba4e2608fa1b3","fromSide":"right","toNode":"c8df464438e36639","toSide":"bottom"}
+	]
+}
