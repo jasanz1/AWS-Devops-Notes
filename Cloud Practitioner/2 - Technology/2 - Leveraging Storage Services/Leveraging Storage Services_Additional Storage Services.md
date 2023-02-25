@@ -31,3 +31,17 @@ EFS is a serverless network file system for sharing files.
 > -   Main directories for business-critical apps
 > -   Lift-and-shift existing enterprise apps
 
+# Storage Gateway
+Storage Gateway is a hybrid storage service.
+- Connect on-premises and cloud data
+- Supports a hybrid model
+> [!Recommended for:]
+>-   Moving backups to the cloud
+> -   Reducing costs for hybrid cloud storage
+>-   Low latency access to data
+
+
+# AWS Backup
+AWS Backup helps you manage data backups across multiple AWS services.
+- Integrates with resources like EC2, EBS, EFS, and more
+- Create a backup plan that includes frequency and retention
