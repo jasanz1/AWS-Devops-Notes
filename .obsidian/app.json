@@ -2,5 +2,6 @@
   "showLineNumber": true,
   "showIndentGuide": false,
   "rightToLeft": false,
-  "vimMode": true
+  "vimMode": true,
+  "alwaysUpdateLinks": true
 }

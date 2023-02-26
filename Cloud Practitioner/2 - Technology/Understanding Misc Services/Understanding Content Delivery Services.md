@@ -22,10 +22,10 @@ CloudFront is a CDN that delivers data and applications globally with low latenc
 
 # Amazon Global Accelerator
 Global Accelerator sends your users through the AWS global network when accessing your content, speeding up delivery.
-* *Improves latency and availability of single-Region applications
-* *Sends traffic through the AWS global network infrastructure
-* *60% performance boost
-* *Automatically re-routes traffic to healthy available regional endpoints
+- Improves latency and availability of single-Region applications
+- Sends traffic through the AWS global network infrastructure
+- 60% performance boost
+- Automatically re-routes traffic to healthy available regional endpoints
 
 # Amazon S3 Transfer Acceleration
 S3 Transfer Acceleration improves content uploads and downloads to and from S3 buckets

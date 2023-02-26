@@ -11,8 +11,12 @@
             "id": "3dd12b6d9d76a87e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Service notes/Content Delivery/S3 Transfer Acceleration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Service notes/Content Delivery/S3 Transfer Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Service notes/Content Delivery/S3 Transfer Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Service notes/Content Delivery/S3 Transfer Acceleration.md"
+              }
             }
           },
           {
@@ -156,13 +164,13 @@
   },
   "active": "3dd12b6d9d76a87e",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
-    "Service notes/Content Delivery/S3 Transfer Acceleration.md",
     "Service notes/Content Delivery/Global Accelerator.md",
     "Service notes/Content Delivery/Cloudfront.md",
+    "Cloud Practitioner/2 - Technology/Understanding Misc Services/Understanding Content Delivery Services.md",
+    "Service notes/Content Delivery/S3 Transfer Acceleration.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Map.canvas",
-    "Cloud Practitioner/2 - Technology/Understanding Misc Services/Understanding Content   Delivery Services.md",
     "Cloud Practitioner/1- Foundations/4 - Leveraging the AWS Global Infrastructure.md",
     "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_Additional Storage Services.md",
     "Cloud Practitioner/2 - Technology/Understanding Misc Services",
