@@ -1,3 +1,4 @@
+
 # Regions
 A Region is a physical location.
  - US West
@@ -11,7 +12,7 @@ A Region is a physical location.
 
  AWS logically groups its Regions into geographic locations.
 
-This allows fast loading and lower latency for user base don geo-location
+This allows fast loading and lower [[#Latency]] for user base don geo-location
 
 ## Region Characteristics
 Fully independent and isolated
@@ -36,6 +37,7 @@ ___
  - Edge locations cache content for fast delivery to your users.
  - Mini data center 
  - **Distribution Cache** is the Name given to the collection of edge locations
+# Term
 ##### Latency
 >Latency is the time that passes between a user request and the resulting response.
 >

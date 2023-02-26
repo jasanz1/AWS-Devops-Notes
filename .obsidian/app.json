@@ -3,5 +3,6 @@
   "showIndentGuide": false,
   "rightToLeft": false,
   "vimMode": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
 }

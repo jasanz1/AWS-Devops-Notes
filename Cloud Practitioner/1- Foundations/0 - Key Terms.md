@@ -1,5 +1,4 @@
-#####  Access control list Or ACL
-> A firewall/security layer on the subnet level
+
 #####  Auto scaling
 > Automates the process of adding or removing [[EC2]] instances based on traffic demand for your application
 #####  Buckets
