@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "254ae31c33cd9d83",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfeacac35300e063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd12b6d9d76a87e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7726ac430319dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b631bc5d82de6ff4",
+        "type": "tabs",
+        "dimension": 14.367816091954023,
+        "children": [
+          {
+            "id": "6bb8820152451f95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b031d8a9cfef1367",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c6c06bdf800ccf4",
+        "type": "tabs",
+        "dimension": 85.63218390804597,
+        "children": [
+          {
+            "id": "9467ad73fbe6bb94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a306924c6de45e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "21a8f9b37da5bb58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0861707782f2934",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adbaa31172257105",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fdbf96d2dad8a3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d78daf83f60e291f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dff343e5bf3e2bac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3dd12b6d9d76a87e",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "Service notes/Content Delivery/S3 Transfer Acceleration.md",
+    "Service notes/Content Delivery/Global Accelerator.md",
+    "Service notes/Content Delivery/Cloudfront.md",
+    "Map.canvas",
+    "Cloud Practitioner/2 - Technology/Understanding Misc Services/Understanding Content   Delivery Services.md",
+    "Cloud Practitioner/1- Foundations/4 - Leveraging the AWS Global Infrastructure.md",
+    "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_Additional Storage Services.md",
+    "Cloud Practitioner/2 - Technology/Understanding Misc Services",
+    "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
+    "conflict-files-obsidian-git.md",
+    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
+    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
+    "Service notes/Storage/S3.md"
+  ]
+}

@@ -1,5 +1,5 @@
 # Regions
-A Region is a **physical location**.
+A Region is a physical location.
  - US West
  - US East
 	 - Ohio
@@ -9,7 +9,7 @@ A Region is a **physical location**.
  - Africa
  - Asia Pacific
 
- AWS logically groups its Regions into **geographic locations**.
+ AWS logically groups its Regions into geographic locations.
 
 This allows fast loading and lower latency for user base don geo-location
 
@@ -22,7 +22,7 @@ Resource and service specific
 ___
 
 # Availability Zones or AZ
-Availability Zones  consist of **one** or **more** physically separated **data centers**,
+Availability Zones  consist of one or more physically separated data centers,
 each with redundant power, networking, and connectivity, housed in separate facilities.
 ## characteristics of AZs
 AZ are connect among themselves in a single region
@@ -34,8 +34,9 @@ ___
 # Edge Locations
  - more then there are AZ's
  - Edge locations cache content for fast delivery to your users.
-
-##### **Latency**
->Latency is the **time** that passes between a user **request** and the resulting **response**.
+ - Mini data center 
+ - **Distribution Cache** is the Name given to the collection of edge locations
+##### Latency
+>Latency is the time that passes between a user request and the resulting response.
 >
 > lower is better
