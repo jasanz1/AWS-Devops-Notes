@@ -8,35 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60cc585d0cbd4e83",
+            "id": "4cc5ac33e0459588",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Service notes/Networking/Route 53.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4572d896faa47d0d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc38bf27d45ac559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Service notes/Storage/S3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -113,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Service notes/Networking/Route 53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Service notes/Networking/Route 53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Service notes/Networking/Route 53.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,10 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dff343e5bf3e2bac",
+  "active": "4cc5ac33e0459588",
   "lastOpenFiles": [
-    "Service notes/Networking/Virtual Private Cloud.md",
+    "Service notes/Databases/Aurora.md",
+    "Map.canvas",
+    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
+    "Service notes/Databases/Relational Database Service (RDS).md",
+    "Service notes/Databases/Neptune.md",
+    "Service notes/Databases/ElastiCache.md",
+    "Service notes/Databases/DynamoDB.md",
+    "Service notes/Databases/DocumentDB.md",
+    "Cloud Practitioner/1- Foundations/4 - Leveraging the AWS Global Infrastructure.md",
+    "Service notes/Storage/S3.md",
+    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",
     "Service notes/Networking/Route 53.md",
+    "Service notes/Networking/Virtual Private Cloud.md",
     "Service notes/Networking/Virtual Private Network.md",
     "Service notes/Storage/EBS.md",
     "Service notes/Compute/EC2.md",
@@ -199,18 +182,7 @@
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
     "Service notes/Storage/Backup.md",
     "Service notes/Storage/Storage Gateway.md",
-    "Service notes/Storage/S3.md",
     "Service notes/Compute/Batch.md",
-    "Service notes/Compute/Outposts.md",
-    "Service notes/Compute/Lightsail.md",
-    "Service notes/Compute/Fargate.md",
-    "Service notes/Content Delivery/Cloudfront.md",
-    "Service notes/Content Delivery/S3 Transfer Acceleration.md",
-    "Service notes/Content Delivery/Global Accelerator.md",
-    "Service notes/Networking/Direct Connect.md",
-    "Cloud Practitioner/1- Foundations/4 - Leveraging the AWS Global Infrastructure.md",
-    "Cloud Practitioner/1- Foundations/1 - Understanding Cloud   Computing.md",
-    "Map.canvas",
     "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services"
   ]
 }
