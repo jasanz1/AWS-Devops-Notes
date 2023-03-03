@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "cfeacac35300e063",
+        "id": "f6bc9f1ccba763c7",
         "type": "tabs",
         "children": [
           {
-            "id": "3dd12b6d9d76a87e",
+            "id": "60cc585d0cbd4e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Service notes/Content Delivery/S3 Transfer Acceleration.md",
+                "file": "Service notes/Networking/Route 53.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01036daca8d3db4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Practitioner/2 - Technology/Understanding Misc Services/Understanding Networking Services_VPC and Subcomponents.md",
-                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4572d896faa47d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc38bf27d45ac559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Service notes/Storage/S3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latency",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Understanding Misc Services/Understanding Networking Services_VPC and Subcomponents.md",
+                "file": "Service notes/Networking/Route 53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Understanding Misc Services/Understanding Networking Services_VPC and Subcomponents.md",
+                "file": "Service notes/Networking/Route 53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Understanding Misc Services/Understanding Networking Services_VPC and Subcomponents.md"
+                "file": "Service notes/Networking/Route 53.md"
               }
             }
           },
@@ -175,31 +182,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01036daca8d3db4d",
+  "active": "dff343e5bf3e2bac",
   "lastOpenFiles": [
-    "Cloud Practitioner/2 - Technology/Understanding Misc Services/Understanding Content Delivery Services.md",
-    "Cloud Practitioner/2 - Technology/Understanding Misc Services/Understanding Networking Services_VPC and Subcomponents.md",
     "Service notes/Networking/Virtual Private Cloud.md",
+    "Service notes/Networking/Route 53.md",
     "Service notes/Networking/Virtual Private Network.md",
-    "Cloud Practitioner/1- Foundations/0 - Key Terms.md",
-    "Cloud Practitioner/1- Foundations/4 - Leveraging the AWS Global Infrastructure.md",
-    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
-    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
-    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Lambda.md",
+    "Service notes/Storage/EBS.md",
+    "Service notes/Compute/EC2.md",
+    "Service notes/Storage/EFS.md",
+    "Service notes/Networking/API Gateway.md",
     "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_Additional Storage Services.md",
-    "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_S3.md",
-    "Cloud Practitioner/1- Foundations/1 - Understanding Cloud   Computing.md",
-    "Cloud Practitioner/1- Foundations/2 - Advantages to Cloud Computing.md",
-    "Cloud Practitioner/1- Foundations/3 - Reviewing Cloud Computing and Deployment Models.md",
-    "Cloud Practitioner/1- Foundations/5 - Exploring Your Amazon Web Services (AWS) Account.md",
+    "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services/Understanding Networking Services_VPC and Subcomponents.md",
+    "Service notes/Compute/Lambda.md",
+    "Cloud Practitioner/1- Foundations/0 - Key Terms.md",
+    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
+    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
+    "Service notes/Storage/Backup.md",
+    "Service notes/Storage/Storage Gateway.md",
+    "Service notes/Storage/S3.md",
+    "Service notes/Compute/Batch.md",
+    "Service notes/Compute/Outposts.md",
+    "Service notes/Compute/Lightsail.md",
+    "Service notes/Compute/Fargate.md",
+    "Service notes/Content Delivery/Cloudfront.md",
     "Service notes/Content Delivery/S3 Transfer Acceleration.md",
     "Service notes/Content Delivery/Global Accelerator.md",
-    "Service notes/Content Delivery/Cloudfront.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "Service notes/Networking/Direct Connect.md",
+    "Cloud Practitioner/1- Foundations/4 - Leveraging the AWS Global Infrastructure.md",
+    "Cloud Practitioner/1- Foundations/1 - Understanding Cloud   Computing.md",
     "Map.canvas",
-    "Cloud Practitioner/2 - Technology/Understanding Misc Services",
-    "conflict-files-obsidian-git.md",
-    "Service notes/Storage/S3.md"
+    "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services"
   ]
 }

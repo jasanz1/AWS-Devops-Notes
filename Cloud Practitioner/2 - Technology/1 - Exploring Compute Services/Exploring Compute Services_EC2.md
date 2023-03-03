@@ -1,6 +1,6 @@
 
 # The Bigger Picture
-single [[4 - Leveraging the AWS Global Infrastructure#Regions|region]] contains multiple [[4 - Leveraging the AWS Global Infrastructure#Availability Zones or AZ|AZs]] contains multiple Data Centers Contains multiple [[Exploring Compute Services_EC2#Servers|Servers]] and a single server can contain multiple virtual servers[[Exploring Compute Services_EC2#EC2 instances|EC2 instances]]
+single [[4 - Leveraging the AWS Global Infrastructure#Regions|region]] contains multiple [[4 - Leveraging the AWS Global Infrastructure#Availability Zones or AZ|AZs]] contains multiple Data Centers Contains multiple [[Exploring Compute Services_EC2#Servers|Servers]] and a single server can contain multiple virtual servers [[Exploring Compute Services_EC2#EC2 instances|EC2 instances]]
 (EC2 Instances are not considered serverless)
 
 # Closer Look

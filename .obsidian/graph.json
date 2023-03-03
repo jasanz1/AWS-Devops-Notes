@@ -1,44 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"Service notes\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#Compute",
-      "color": {
-        "a": 1,
-        "rgb": 15111976
-      }
-    },
-    {
-      "query": "tag:#storage",
-      "color": {
-        "a": 1,
-        "rgb": 4904759
-      }
-    },
-    {
-      "query": "#CDN",
-      "color": {
-        "a": 1,
-        "rgb": 10764744
-      }
-    }
-  ],
-  "collapse-display": false,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.578125,
-  "repelStrength": 14.4791666666667,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 152,
-  "scale": 0.3628873693012117,
+  "linkDistance": 250,
+  "scale": 0.7132754626224441,
   "close": false
 }

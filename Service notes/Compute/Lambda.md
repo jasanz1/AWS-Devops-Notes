@@ -1,5 +1,5 @@
 # Lambda
-- Serverless computing that will replace [[EC2]] instances, for the most part
+- Serverless computing that will replace [[Exploring Compute Services_EC2#EC2 instances|EC2 instances]], for the most part
 
 #Compute
 ![[Exploring Compute Services_Lambda#The Bigger Picture]]

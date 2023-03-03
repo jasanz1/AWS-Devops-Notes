@@ -20,7 +20,7 @@ Durability and availability are 2 very different aspects of data accessibility
 
 2.  availability
 	- Availability is important so you can access your data quickly when you need it.
-	 > [!note] Amazon S3 Standard is designed for 99.99% availability.
+	> [!note] Amazon S3 Standard is designed for 99.99% availability.
 
 
 # S3 Storage Classes
@@ -29,44 +29,48 @@ Amazon S3 offers several storage classes designed for different use cases.
 	- General-Purpose
 	- Data sorted across multiple [[4 - Leveraging the AWS Global Infrastructure#Availability Zones or AZ|AZ]] 
 	- Low latency and high throughput 
-		> [!Recommended for]
-		>  Frequently accessed data
+	
+	> [!Recommended for]
+	>  Frequently accessed data
 		
-		>  Durability of 99.999999999% 
-		> Availability of 99.99%
+	> Durability of 99.999999999% 
+	> Availability of 99.99%
  2. S3 intelligent-Tiering
 	- Automatically move your data to the most cost effective storage class
 	- Automatic cost saving
 	- No retrieval fees
 	-  Data stored across multiple  [[4 - Leveraging the AWS Global Infrastructure#Availability Zones or AZ|AZ]] 
-		> [!Recommended for]
-		> Data with unknown or changing access pattern
+	
+	> [!Recommended for]
+	> Data with unknown or changing access pattern
 
-		> Durability of 99.999999999% 
-		> Availability of 99.9%
+	> Durability of 99.999999999% 
+	> Availability of 99.9%
  3. S3 Standard Infrequent Access (IA)
-	 - data accessed less frequently but requrs rapid access
-	 - data stored across multiple [[4 - Leveraging the AWS Global Infrastructure#Availability Zones or AZ|AZ]] 
-	 - cheaper than S3 standard
- 	 > [!Recommended for]
- 	 > Long-Lived data
- 	 > Infrequently accessed
- 	 > millisecond access when needed
+	- data accessed less frequently but requrs rapid access
+	- data stored across multiple [[4 - Leveraging the AWS Global Infrastructure#Availability Zones or AZ|AZ]] 
+	- cheaper than S3 standard
+	
+ 	> [!Recommended for]
+ 	> Long-Lived data
+ 	> Infrequently accessed
+ 	> millisecond access when needed
 
-		 > Durability of 99.999999999%  
-		 > Availability of 99.9%
+	> Durability of 99.999999999%  
+	> Availability of 99.9%
  
  4. S3 One Zone- infrequent Access (IA)
 	- Like S3 Standard-IA but data stored in single   [[4 - Leveraging the AWS Global Infrastructure#Availability Zones or AZ|AZ]] 
 	- Cost 20% less than S3 standard-IA
 	- Data sotred in this storage class can be lost
-	 > [!Recommended for]
-	 > Re-creatable data
-	 > infrequently accessed with millisecond access
-	 > availability and durability are not essential
 	
-		 > Durability of 99.999999999%  
-		 > Availability of 99.95%
+	> [!Recommended for]
+	> Re-creatable data
+	> infrequently accessed with millisecond access
+	> availability and durability are not essential
+	
+	> Durability of 99.999999999%  
+	> Availability of 99.95%
  5. S3 Glacier (now S3 Glacier Flexible retrieval)
 	- Long-term data storage and archival lower costs
 	- data retrieval takes longer
@@ -76,11 +80,11 @@ Amazon S3 offers several storage classes designed for different use cases.
 		- 5-12 hours
 	- Data stored across multiple Availability Zones
 	
-	  > [!Recommended for]
-	  > Long-term backups
-	  > Cheaper storage options
+	> [!Recommended for]
+	> Long-term backups
+	> Cheaper storage options
 
-		> Durability of 99.999999999% 
+	> Durability of 99.999999999% 
 
 6. S3 Glacier Instant Retravel
 	- Long-term data storage and archival lower costs
@@ -88,11 +92,11 @@ Amazon S3 offers several storage classes designed for different use cases.
 	- more expensive then flexible
 	- Data stored across multiple Availability Zones
 	
-	  > [!Recommended for]
-	  > Long-term backups
-	  > Cheaper storage options
+	> [!Recommended for]
+	> Long-term backups
+	> Cheaper storage options
 	  
-		> Durability of 99.999999999%  
+	> Durability of 99.999999999%  
 	
  6. S3 Glacier Deep Archive
 	 - like S3 Glacier but longer access times
@@ -102,16 +106,17 @@ Amazon S3 offers several storage classes designed for different use cases.
 		 - Cheapest of all s3 options
 	 - data stored across multiple  [[4 - Leveraging the AWS Global Infrastructure#Availability Zones or AZ|AZ]] 
 		 
- 	   > [!Recommended for]
- 	   > Long-term data archival accessed once or twice a year
- 	   > Retaining data for regulatory compliance
+ 	> [!Recommended for]
+ 	> Long-term data archival accessed once or twice a year
+ 	> Retaining data for regulatory compliance
  	  
-		> Durability of 99.999999999% 
+	> Durability of 99.999999999% 
 
  7. S3 Outposts
-	 - Provides object storage on-premises
-	 - a single storage class
-	 - store data across multiple devices and servers
+	- Provides object storage on-premises
+	- a single storage class
+	- store data across multiple devices and servers
+	 
 	> [!Recommended for]
 	> Data that needs to be kept local
 	> Demands application performances needs
