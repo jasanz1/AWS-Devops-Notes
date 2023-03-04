@@ -1,2 +1,1 @@
-#CDN
 ![[Understanding Content Delivery Services#Amazon Global Accelerator]]

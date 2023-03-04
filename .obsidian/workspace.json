@@ -8,33 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cc5ac33e0459588",
+            "id": "192580dbc6496cb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3759aaba6076732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Service notes/Mirgration and Transfer/Snow Family.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Service notes/Mirgration and Transfer/Snow Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Service notes/Mirgration and Transfer/Snow Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Service notes/Mirgration and Transfer/Snow Family.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,40 +151,41 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "e3759aaba6076732",
+  "active": "192580dbc6496cb6",
   "lastOpenFiles": [
-    "Service notes/Mirgration and Transfer/Server Migration Service (SMS).md",
+    "Service notes/Storage/Storage Gateway.md",
+    "Service notes/Storage/S3.md",
+    "Service notes/Storage/EFS.md",
+    "Service notes/Storage/Backup.md",
+    "Service notes/Storage/EBS.md",
     "Service notes/Mirgration and Transfer/DataSync.md",
     "Service notes/Mirgration and Transfer/Database Migration Service (DMS).md",
-    "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Migration and Transfer Services.md",
-    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
-    "Cloud Practitioner/2 - Technology/Exploring extra tools",
-    "Service notes/Databases/Aurora.md",
-    "Map.canvas",
     "Service notes/Databases/Relational Database Service (RDS).md",
-    "Service notes/Databases/Neptune.md",
     "Service notes/Databases/ElastiCache.md",
+    "Service notes/Databases/Neptune.md",
     "Service notes/Databases/DynamoDB.md",
     "Service notes/Databases/DocumentDB.md",
-    "Cloud Practitioner/1- Foundations/4 - Leveraging the AWS Global Infrastructure.md",
-    "Service notes/Storage/S3.md",
-    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",
-    "Service notes/Networking/Route 53.md",
-    "Service notes/Networking/Virtual Private Cloud.md",
-    "Service notes/Networking/Virtual Private Network.md",
-    "Service notes/Storage/EBS.md",
-    "Service notes/Compute/EC2.md",
-    "Service notes/Storage/EFS.md",
-    "Service notes/Networking/API Gateway.md",
-    "Cloud Practitioner/2 - Technology/2 - Leveraging Storage Services/Leveraging Storage Services_Additional Storage Services.md",
-    "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services/Understanding Networking Services_VPC and Subcomponents.md",
+    "Service notes/Databases/Aurora.md",
+    "Service notes/Content Delivery/S3 Transfer Acceleration.md",
+    "Service notes/Content Delivery/Global Accelerator.md",
+    "Service notes/Content Delivery/Cloudfront.md",
+    "Service notes/Compute/Lightsail.md",
+    "Service notes/Compute/Outposts.md",
     "Service notes/Compute/Lambda.md",
-    "Cloud Practitioner/1- Foundations/0 - Key Terms.md",
-    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
-    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
+    "Service notes/Compute/Fargate.md",
+    "Service notes/Compute/EC2.md",
+    "Service notes/Compute/Batch.md",
+    "Service notes/Mirgration and Transfer/Snow Family.md",
+    "Map.canvas",
+    "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Migration and Transfer Services.md",
+    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
+    "Service notes/Mirgration and Transfer/Server Migration Service (SMS).md",
+    "Cloud Practitioner/2 - Technology/Exploring extra tools",
+    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",
     "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services"
   ]
 }

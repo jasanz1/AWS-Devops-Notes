@@ -1,4 +1,3 @@
-#storage 
 ![[Leveraging Storage Services_Additional Storage Services#Amazon Elastic File System (EFS)]]
 ##### links
 [[EBS]]

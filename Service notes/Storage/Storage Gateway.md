@@ -1,2 +1,1 @@
-#storage
 ![[Leveraging Storage Services_Additional Storage Services#Storage Gateway]]

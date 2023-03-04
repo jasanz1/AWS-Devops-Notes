@@ -6,7 +6,50 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Service notes/Compute\"",
+      "color": {
+        "a": 1,
+        "rgb": 2872414
+      }
+    },
+    {
+      "query": "path:\"Service notes/Databases\"",
+      "color": {
+        "a": 1,
+        "rgb": 6719205
+      }
+    },
+    {
+      "query": "path:\"Service notes/Storage\"",
+      "color": {
+        "a": 1,
+        "rgb": 3117703
+      }
+    },
+    {
+      "query": "path:\"Service notes/Mirgration and Transfer\"",
+      "color": {
+        "a": 1,
+        "rgb": 12818642
+      }
+    },
+    {
+      "query": "path:\"Service notes/Networking\"",
+      "color": {
+        "a": 1,
+        "rgb": 14786887
+      }
+    },
+    {
+      "query": "path:\"Service notes/Content Delivery\"",
+      "color": {
+        "a": 1,
+        "rgb": 16503561
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224441,
+  "scale": 0.5087618855792602,
   "close": false
 }

@@ -1,6 +1,5 @@
 
 # Elastic Compute Cloud (EC2)
-#Compute
 - A virtual computer, very similar to a desktop/laptop compute
 - Elastic compute power
 

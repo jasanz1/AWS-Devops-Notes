@@ -34,7 +34,7 @@ The Snow Family allows you to transfer large amounts of on-premises data to AWS 
 - Snowmobile
 	- Multi-petabyte or exabyte scale
 	- Data loaded to [[S3]]
-	- Securely transportedi
+	- Securely transported
 # DataSync
 DataSync allows for online data transfer from
 	on-premises to AWS storage services like [[S3]] or [[EFS]].

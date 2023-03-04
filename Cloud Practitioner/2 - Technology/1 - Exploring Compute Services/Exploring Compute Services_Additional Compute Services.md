@@ -17,6 +17,9 @@ Outposts allows you to run cloud services in your internal data center.
 - AWS delivers and installs servers in your internal data center
 - Have access to the cloud services and APIs to develop apps on-premises
 # AWS Batch 
+
+^b7f655
+
 Batch allows you to process large workloads in smaller chunks (or batches).
 - Runs hundreds and thousands of smaller batch processing jobs
 - Dynamically provisions [[Exploring Compute Services_EC2#EC2 instances|EC2 instances]] based on volume
