@@ -11,11 +11,30 @@
             "id": "4cc5ac33e0459588",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3759aaba6076732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Service notes/Mirgration and Transfer/Snow Family.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Service notes/Mirgration and Transfer/Snow Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Service notes/Mirgration and Transfer/Snow Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Service notes/Mirgration and Transfer/Snow Family.md"
+              }
             }
           },
           {
@@ -154,11 +177,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cc5ac33e0459588",
+  "active": "e3759aaba6076732",
   "lastOpenFiles": [
+    "Service notes/Mirgration and Transfer/Server Migration Service (SMS).md",
+    "Service notes/Mirgration and Transfer/DataSync.md",
+    "Service notes/Mirgration and Transfer/Database Migration Service (DMS).md",
+    "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Migration and Transfer Services.md",
+    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
+    "Cloud Practitioner/2 - Technology/Exploring extra tools",
     "Service notes/Databases/Aurora.md",
     "Map.canvas",
-    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
     "Service notes/Databases/Relational Database Service (RDS).md",
     "Service notes/Databases/Neptune.md",
     "Service notes/Databases/ElastiCache.md",
@@ -180,9 +208,6 @@
     "Cloud Practitioner/1- Foundations/0 - Key Terms.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
-    "Service notes/Storage/Backup.md",
-    "Service notes/Storage/Storage Gateway.md",
-    "Service notes/Compute/Batch.md",
     "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services"
   ]
 }
