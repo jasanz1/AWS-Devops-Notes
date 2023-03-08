@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16503561
       }
+    },
+    {
+      "query": "path:\"Service notes/Analytics\"",
+      "color": {
+        "a": 1,
+        "rgb": 5752702
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792602,
+  "scale": 1.0000000000000033,
   "close": false
 }

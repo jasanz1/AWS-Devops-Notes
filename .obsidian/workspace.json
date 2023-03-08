@@ -11,11 +11,32 @@
             "id": "192580dbc6496cb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76073420e98defeb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Map.canvas",
+                "viewState": {
+                  "x": 2212.2416128238933,
+                  "y": -846.6868298086274,
+                  "zoom": -1.6666666666666663
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -27,7 +48,7 @@
       {
         "id": "b631bc5d82de6ff4",
         "type": "tabs",
-        "dimension": 14.367816091954023,
+        "dimension": 32.39942528735632,
         "children": [
           {
             "id": "6bb8820152451f95",
@@ -57,7 +78,7 @@
       {
         "id": "6c6c06bdf800ccf4",
         "type": "tabs",
-        "dimension": 85.63218390804597,
+        "dimension": 67.60057471264368,
         "children": [
           {
             "id": "9467ad73fbe6bb94",
@@ -89,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Map.canvas"
+              }
             }
           },
           {
@@ -151,12 +176,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "3d-graph:3D Graph": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "192580dbc6496cb6",
+  "active": "76073420e98defeb",
   "lastOpenFiles": [
+    "Service notes/Analytis/Data Pipeline.md",
+    "Service notes/Analytics/Data Pipelines.md",
+    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
+    "Service notes/Analytics/Quicksight.md",
+    "Service notes/Analytics/Glue.md",
+    "Service notes/Analytics/Elastic MapReduce (EMR).md",
+    "Service notes/Analytics/Athena.md",
+    "Map.canvas",
+    "Service notes/Analytics/Redshift.md",
+    "Service notes/Analytics/Kinesis.md",
+    "Cloud Practitioner/2 - Technology/Leveraging extra info services",
     "Service notes/Storage/Storage Gateway.md",
     "Service notes/Storage/S3.md",
     "Service notes/Storage/EFS.md",
@@ -174,16 +209,6 @@
     "Service notes/Content Delivery/Global Accelerator.md",
     "Service notes/Content Delivery/Cloudfront.md",
     "Service notes/Compute/Lightsail.md",
-    "Service notes/Compute/Outposts.md",
-    "Service notes/Compute/Lambda.md",
-    "Service notes/Compute/Fargate.md",
-    "Service notes/Compute/EC2.md",
-    "Service notes/Compute/Batch.md",
-    "Service notes/Mirgration and Transfer/Snow Family.md",
-    "Map.canvas",
-    "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Migration and Transfer Services.md",
-    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
-    "Service notes/Mirgration and Transfer/Server Migration Service (SMS).md",
     "Cloud Practitioner/2 - Technology/Exploring extra tools",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",
     "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services"
