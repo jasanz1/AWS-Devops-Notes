@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
+                "file": "Service notes/Content Delivery/Global Accelerator.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d5dc33a8324f64b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map.canvas",
+                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map.canvas",
+                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map.canvas"
+                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md"
               }
             }
           },
@@ -179,16 +192,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76073420e98defeb",
+  "active": "8d5dc33a8324f64b",
   "lastOpenFiles": [
+    "Service notes/Content Delivery/Global Accelerator.md",
+    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
+    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
+    "Map.canvas",
     "Service notes/Analytis/Data Pipeline.md",
     "Service notes/Analytics/Data Pipelines.md",
-    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
     "Service notes/Analytics/Quicksight.md",
     "Service notes/Analytics/Glue.md",
     "Service notes/Analytics/Elastic MapReduce (EMR).md",
     "Service notes/Analytics/Athena.md",
-    "Map.canvas",
     "Service notes/Analytics/Redshift.md",
     "Service notes/Analytics/Kinesis.md",
     "Cloud Practitioner/2 - Technology/Leveraging extra info services",
@@ -206,9 +221,7 @@
     "Service notes/Databases/DocumentDB.md",
     "Service notes/Databases/Aurora.md",
     "Service notes/Content Delivery/S3 Transfer Acceleration.md",
-    "Service notes/Content Delivery/Global Accelerator.md",
     "Service notes/Content Delivery/Cloudfront.md",
-    "Service notes/Compute/Lightsail.md",
     "Cloud Practitioner/2 - Technology/Exploring extra tools",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",
     "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services"
