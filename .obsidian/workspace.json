@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "192580dbc6496cb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Service notes/Content Delivery/Global Accelerator.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d5dc33a8324f64b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76073420e98defeb",
+            "id": "5ae6890a7f50fcd2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Map.canvas",
                 "viewState": {
-                  "x": 2212.2416128238933,
-                  "y": -846.6868298086274,
-                  "zoom": -1.6666666666666663
+                  "x": 2505.641847762283,
+                  "y": 502.64483160177485,
+                  "zoom": -1.6290391605028223
                 }
+              }
+            }
+          },
+          {
+            "id": "991c44df28eeef19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Service notes/Compute/Batch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
+                "file": "Service notes/Compute/Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
+                "file": "Service notes/Compute/Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md"
+                "file": "Service notes/Compute/Batch.md"
               }
             }
           },
@@ -192,36 +179,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d5dc33a8324f64b",
+  "active": "dff343e5bf3e2bac",
   "lastOpenFiles": [
+    "Service notes/Compute/EC2.md",
+    "Service notes/Compute/Fargate.md",
+    "Service notes/Compute/Lambda.md",
+    "Service notes/Compute/Lightsail.md",
+    "Service notes/Compute/Outposts.md",
+    "Service notes/Content Delivery/Cloudfront.md",
     "Service notes/Content Delivery/Global Accelerator.md",
-    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
-    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
-    "Map.canvas",
-    "Service notes/Analytis/Data Pipeline.md",
-    "Service notes/Analytics/Data Pipelines.md",
-    "Service notes/Analytics/Quicksight.md",
-    "Service notes/Analytics/Glue.md",
-    "Service notes/Analytics/Elastic MapReduce (EMR).md",
-    "Service notes/Analytics/Athena.md",
-    "Service notes/Analytics/Redshift.md",
-    "Service notes/Analytics/Kinesis.md",
-    "Cloud Practitioner/2 - Technology/Leveraging extra info services",
-    "Service notes/Storage/Storage Gateway.md",
-    "Service notes/Storage/S3.md",
-    "Service notes/Storage/EFS.md",
-    "Service notes/Storage/Backup.md",
-    "Service notes/Storage/EBS.md",
-    "Service notes/Mirgration and Transfer/DataSync.md",
-    "Service notes/Mirgration and Transfer/Database Migration Service (DMS).md",
-    "Service notes/Databases/Relational Database Service (RDS).md",
+    "Service notes/Content Delivery/S3 Transfer Acceleration.md",
+    "Service notes/Databases/DocumentDB.md",
+    "Service notes/Databases/DynamoDB.md",
     "Service notes/Databases/ElastiCache.md",
     "Service notes/Databases/Neptune.md",
-    "Service notes/Databases/DynamoDB.md",
-    "Service notes/Databases/DocumentDB.md",
-    "Service notes/Databases/Aurora.md",
-    "Service notes/Content Delivery/S3 Transfer Acceleration.md",
-    "Service notes/Content Delivery/Cloudfront.md",
+    "Service notes/Databases/Relational Database Service (RDS).md",
+    "Service notes/Developer Tools/Cloud9.md",
+    "Service notes/Developer Tools/CodeBuild.md",
+    "Service notes/Developer Tools/CodeCommit.md",
+    "Service notes/Developer Tools/CodeDeploy.md",
+    "Service notes/Developer Tools/CodePipeline.md",
+    "Service notes/Developer Tools/CodeStar.md",
+    "Service notes/Developer Tools/X-Ray.md",
+    "Service notes/Machine Learning/Comprehend.md",
+    "Service notes/Machine Learning/Lex.md",
+    "Service notes/Machine Learning/Polly.md",
+    "Service notes/Machine Learning/Rekognition.md",
+    "Service notes/Machine Learning/Translate.md",
+    "Service notes/Machine Learning/SageMaker.md",
+    "Map.canvas",
+    "Cloud Practitioner/2 - Technology/Leveraging extra info services",
     "Cloud Practitioner/2 - Technology/Exploring extra tools",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",
     "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services"

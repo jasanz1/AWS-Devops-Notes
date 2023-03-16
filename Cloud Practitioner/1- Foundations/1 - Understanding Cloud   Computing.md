@@ -1,26 +1,35 @@
- 
+
 "The cloud" is a real place; your data is stored somewhere.
 Servers are very powerful computers that handle your requests.
 ___
-## What is cloud computing, exactly?
+
+## What is Cloud Computing, Exactly?
+
 Cloud computing is the **delivery of computing services** over the internet.
+
 ### Examples
+
 |Category|Example Services|
 |---|---|
 |Compute|[[EC2]], [[Lambda]]|
-|Networking|[[VPC]], [[Direct Connect]]|
+|Networking|[[Virtual Private Cloud|VPC]], [[Direct Connect]]|
 |Storage|[[S3]], [[EBS]]|
 |Analytics|[[Athena]], [[Redshift]]|
 |Development|[[Cloud9]], [[CodeCommit]]|
 |Security|[[IAM]], [[Macie]]|
-|Databases|[[RDS]], [[DynamoDB]]|
+|Databases|[[Relational Database Service (RDS)|RDS]], [[DynamoDB]]|
+
 [Services Whitepaper](https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf)
 ___
+
 ## Virtual Machines
+
 - Virtualization lets you divide hardware resources on a single **physical** server into smaller units.
 The heart of cloud computing
  ___
+
 ## Usage
+
 **Your usage is placed on a meter.**
 You pay only when you access it and only for what you use.
 

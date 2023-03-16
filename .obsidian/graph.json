@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 5752702
       }
+    },
+    {
+      "query": "path:\"Service notes/Machine Learning\"",
+      "color": {
+        "a": 1,
+        "rgb": 8477589
+      }
+    },
+    {
+      "query": "path:\"Service notes/Developer Tools\"",
+      "color": {
+        "a": 1,
+        "rgb": 1937439
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224443,
+  "scale": 1.0000000000000033,
   "close": false
 }

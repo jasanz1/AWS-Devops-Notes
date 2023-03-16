@@ -2,9 +2,11 @@
 aliases:
 - VPC
 ---
-#Networking 
+#Networking
 ![[Understanding Networking Services_VPC and Subcomponents#Amazon Virtual Private Cloud (VPC)]]
-##### links
+
+##### Links
+
 [[EC2]]
 [[4 - Leveraging the AWS Global Infrastructure#Availability Zones or AZ]]
 [[4 - Leveraging the AWS Global Infrastructure#Regions]]

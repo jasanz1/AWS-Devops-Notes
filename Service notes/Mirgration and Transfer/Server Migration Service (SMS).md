@@ -1,3 +1,5 @@
 ![[Exploring Migration and Transfer Services#Server Migration Service (SMS)]]
-##### links
+
+##### Links
+
 [[EC2]]
