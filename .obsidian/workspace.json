@@ -11,14 +11,12 @@
             "id": "5ae6890a7f50fcd2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Map.canvas",
-                "viewState": {
-                  "x": 2505.641847762283,
-                  "y": 502.64483160177485,
-                  "zoom": -1.6290391605028223
-                }
+                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -28,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Service notes/Compute/Batch.md",
+                "file": "Service notes/Developer Tools/CodeCommit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Service notes/Compute/Batch.md",
+                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Service notes/Compute/Batch.md",
+                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Service notes/Compute/Batch.md"
+                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md"
               }
             }
           },
@@ -179,8 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dff343e5bf3e2bac",
+  "active": "5ae6890a7f50fcd2",
   "lastOpenFiles": [
+    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
+    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
+    "Map.canvas",
+    "Service notes/Developer Tools/CodeCommit.md",
+    "Service notes/Developer Tools/CodePipeline.md",
+    "Service notes/Compute/Batch.md",
     "Service notes/Compute/EC2.md",
     "Service notes/Compute/Fargate.md",
     "Service notes/Compute/Lambda.md",
@@ -196,18 +199,12 @@
     "Service notes/Databases/Relational Database Service (RDS).md",
     "Service notes/Developer Tools/Cloud9.md",
     "Service notes/Developer Tools/CodeBuild.md",
-    "Service notes/Developer Tools/CodeCommit.md",
     "Service notes/Developer Tools/CodeDeploy.md",
-    "Service notes/Developer Tools/CodePipeline.md",
     "Service notes/Developer Tools/CodeStar.md",
     "Service notes/Developer Tools/X-Ray.md",
     "Service notes/Machine Learning/Comprehend.md",
     "Service notes/Machine Learning/Lex.md",
     "Service notes/Machine Learning/Polly.md",
-    "Service notes/Machine Learning/Rekognition.md",
-    "Service notes/Machine Learning/Translate.md",
-    "Service notes/Machine Learning/SageMaker.md",
-    "Map.canvas",
     "Cloud Practitioner/2 - Technology/Leveraging extra info services",
     "Cloud Practitioner/2 - Technology/Exploring extra tools",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",
