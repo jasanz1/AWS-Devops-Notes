@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 1937439
       }
+    },
+    {
+      "query": "path:\"Service notes/Messaging and Intergration\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": true,

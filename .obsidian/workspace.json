@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f682b82ef00b48ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "991c44df28eeef19",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
+                "file": "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
+                "file": "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md"
+                "file": "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md"
               }
             }
           },
@@ -176,8 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ae6890a7f50fcd2",
+  "active": "f682b82ef00b48ae",
   "lastOpenFiles": [
+    "Service notes/Messaging and Intergration/Simple Queue Service (SQS).md",
+    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Messaging and   Integration Services_SQS.md",
+    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
+    "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
+    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
     "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
     "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
     "Map.canvas",
@@ -200,11 +219,6 @@
     "Service notes/Developer Tools/Cloud9.md",
     "Service notes/Developer Tools/CodeBuild.md",
     "Service notes/Developer Tools/CodeDeploy.md",
-    "Service notes/Developer Tools/CodeStar.md",
-    "Service notes/Developer Tools/X-Ray.md",
-    "Service notes/Machine Learning/Comprehend.md",
-    "Service notes/Machine Learning/Lex.md",
-    "Service notes/Machine Learning/Polly.md",
     "Cloud Practitioner/2 - Technology/Leveraging extra info services",
     "Cloud Practitioner/2 - Technology/Exploring extra tools",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",
