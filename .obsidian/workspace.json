@@ -34,6 +34,34 @@
             }
           },
           {
+            "id": "a6e19019191b63fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Service notes/Messaging and Intergration/Simple Notification Service (SNS).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "143e6debad2afd0b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Map.canvas",
+                "viewState": {
+                  "x": 1667.6277227722771,
+                  "y": -850.3049504950494,
+                  "zoom": -1.6290391605028223
+                }
+              }
+            }
+          },
+          {
             "id": "991c44df28eeef19",
             "type": "leaf",
             "state": {
@@ -47,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -67,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\" EC2 instances.\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
+                "file": "Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
+                "file": "Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md"
+                "file": "Map.canvas"
               }
             }
           },
@@ -190,12 +218,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f682b82ef00b48ae",
+  "active": "143e6debad2afd0b",
   "lastOpenFiles": [
+    "Service notes/Audditing,Monitoring, and Logging/CloudWatch.md",
+    "Service notes/Audditing,Monitoring, and Logging/CloudTrail.md",
+    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
+    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
+    "Service notes/Messaging and Intergration/Simple Notification Service (SNS).md",
+    "Service notes/Messaging and Intergration/Simple Email Service (SES).md",
+    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Messaging and   Integration Services_SNS and SES.md",
+    "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
     "Service notes/Messaging and Intergration/Simple Queue Service (SQS).md",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Messaging and   Integration Services_SQS.md",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
-    "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
     "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
     "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
@@ -212,13 +247,6 @@
     "Service notes/Content Delivery/Global Accelerator.md",
     "Service notes/Content Delivery/S3 Transfer Acceleration.md",
     "Service notes/Databases/DocumentDB.md",
-    "Service notes/Databases/DynamoDB.md",
-    "Service notes/Databases/ElastiCache.md",
-    "Service notes/Databases/Neptune.md",
-    "Service notes/Databases/Relational Database Service (RDS).md",
-    "Service notes/Developer Tools/Cloud9.md",
-    "Service notes/Developer Tools/CodeBuild.md",
-    "Service notes/Developer Tools/CodeDeploy.md",
     "Cloud Practitioner/2 - Technology/Leveraging extra info services",
     "Cloud Practitioner/2 - Technology/Exploring extra tools",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",

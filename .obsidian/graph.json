@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"Service notes/Audditing,Monitoring, and Logging\"",
+      "color": {
+        "a": 1,
+        "rgb": 9598266
+      }
     }
   ],
   "collapse-display": true,
