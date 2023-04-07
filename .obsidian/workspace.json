@@ -8,126 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ae6890a7f50fcd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f682b82ef00b48ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Practitioner/2 - Technology/5 - Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6e19019191b63fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Service notes/Messaging and Intergration/Simple Notification Service (SNS).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "143e6debad2afd0b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Map.canvas",
-                "viewState": {
-                  "x": 1667.6277227722771,
-                  "y": -850.3049504950494,
-                  "zoom": -1.6290391605028223
-                }
-              }
-            }
-          },
-          {
-            "id": "8cdc66f5d9716b55",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/5 - Exploring extra tools/Exploring Additional   Services.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a8e899cb36accd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Service notes/Misc/Workspaces.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "450d4700a7facf5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Service notes/Misc/Connect.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2452b68d7e3aae7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "991c44df28eeef19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Service notes/Developer Tools/CodeCommit.md",
+                "file": "uncategorized info/Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
+                "file": "uncategorized info/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
+                "file": "uncategorized info/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md"
+                "file": "uncategorized info/Git.md"
               }
             }
           },
@@ -270,36 +163,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2452b68d7e3aae7e",
+  "active": "143e6debad2afd0b",
   "lastOpenFiles": [
-    "Service notes/Audditing,Monitoring, and Logging/CloudWatch.md",
+    "uncategorized info",
+    "Service notes/Developer Tools/CodeCommit.md",
+    "uncategorized info/Git.md",
     "Map.canvas",
-    "Review pages.md",
+    "Free Tier.md",
+    "Service notes/Messaging and Intergration/Simple Notification Service (SNS).md",
+    "Cloud Practitioner/2 - Technology/5 - Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
+    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
+    "Cloud Practitioner/2 - Technology/6 - Leveraging extra info services/Leveraging Analytics   Services.md",
+    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
+    "Service notes/Messaging and Intergration/Simple Email Service (SES).md",
+    "Service notes/Machine Learning/SageMaker.md",
+    "Service notes/Machine Learning/Comprehend.md",
+    "Service notes/Databases/Neptune.md",
+    "Service notes/Databases/Aurora.md",
+    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
+    "Service notes/Audditing,Monitoring, and Logging/CloudWatch.md",
+    "uncategorized info/Review pages.md",
     "Service notes/Misc/Connect.md",
     "Cloud Practitioner/2 - Technology/5- Exploring extra tools/Untitled",
     "Service notes/Misc/Workspaces.md",
     "Cloud Practitioner/2 - Technology/5 - Exploring extra tools/Exploring Additional   Services.md",
     "Service notes/Misc",
     "Service notes/Audditing,Monitoring, and Logging/CloudTrail.md",
-    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
-    "Service notes/Messaging and Intergration/Simple Notification Service (SNS).md",
-    "Service notes/Messaging and Intergration/Simple Email Service (SES).md",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Messaging and   Integration Services_SNS and SES.md",
-    "Cloud Practitioner/2 - Technology/5 - Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
     "Service notes/Messaging and Intergration/Simple Queue Service (SQS).md",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Messaging and   Integration Services_SQS.md",
-    "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
-    "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
-    "Cloud Practitioner/2 - Technology/6 - Leveraging extra info services/Leveraging Analytics   Services.md",
     "Cloud Practitioner/2 - Technology/6 - Leveraging extra info services/Leveraging Machine   Learning Services.md",
-    "Service notes/Developer Tools/CodeCommit.md",
-    "Service notes/Developer Tools/CodePipeline.md",
-    "Service notes/Compute/Batch.md",
-    "Service notes/Compute/EC2.md",
-    "Service notes/Compute/Fargate.md",
-    "Service notes/Compute/Lambda.md",
-    "Service notes/Compute/Lightsail.md",
     "Cloud Practitioner/2 - Technology/6 - Leveraging extra info services",
     "Cloud Practitioner/2 - Technology/5 - Exploring extra tools",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",

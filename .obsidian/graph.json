@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 9598266
       }
+    },
+    {
+      "query": "path:\"Service notes/Misc\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000033,
+  "scale": 0.7132754626224449,
   "close": false
 }
