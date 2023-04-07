@@ -14,7 +14,7 @@ You can answer many questions using auditing, monitoring, and logging services o
 # CloudWatch
 
 CloudWatch is a collection of services that help you monitor and observe your cloud resources.
-- *Collects metrics, logs, and events
+- Collects metrics, logs, and events
 - Visualize logs
 - Detect anomalies in your environment
 - Set alarms

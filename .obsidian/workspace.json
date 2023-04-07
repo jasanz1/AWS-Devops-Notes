@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
+                "file": "Cloud Practitioner/2 - Technology/5 - Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,6 +62,58 @@
             }
           },
           {
+            "id": "8cdc66f5d9716b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Practitioner/2 - Technology/5 - Exploring extra tools/Exploring Additional   Services.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a8e899cb36accd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Service notes/Misc/Workspaces.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "450d4700a7facf5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Service notes/Misc/Connect.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2452b68d7e3aae7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "991c44df28eeef19",
             "type": "leaf",
             "state": {
@@ -75,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -95,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\" EC2 instances.\"",
+                "query": "round Table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map.canvas",
+                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map.canvas",
+                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map.canvas"
+                "file": "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md"
               }
             }
           },
@@ -218,23 +270,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "143e6debad2afd0b",
+  "active": "2452b68d7e3aae7e",
   "lastOpenFiles": [
     "Service notes/Audditing,Monitoring, and Logging/CloudWatch.md",
+    "Map.canvas",
+    "Review pages.md",
+    "Service notes/Misc/Connect.md",
+    "Cloud Practitioner/2 - Technology/5- Exploring extra tools/Untitled",
+    "Service notes/Misc/Workspaces.md",
+    "Cloud Practitioner/2 - Technology/5 - Exploring extra tools/Exploring Additional   Services.md",
+    "Service notes/Misc",
     "Service notes/Audditing,Monitoring, and Logging/CloudTrail.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Auditing,   Monitoring, and  Logging Services.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_EC2.md",
     "Service notes/Messaging and Intergration/Simple Notification Service (SNS).md",
     "Service notes/Messaging and Intergration/Simple Email Service (SES).md",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Messaging and   Integration Services_SNS and SES.md",
-    "Cloud Practitioner/2 - Technology/Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
+    "Cloud Practitioner/2 - Technology/5 - Exploring extra tools/Exploring Deployment   and Infrastructure  Management Services.md",
     "Service notes/Messaging and Intergration/Simple Queue Service (SQS).md",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Messaging and   Integration Services_SQS.md",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services/Utilizing Databases.md",
     "Cloud Practitioner/2 - Technology/1 - Exploring Compute Services/Exploring Compute Services_Additional Compute Services.md",
-    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Analytics   Services.md",
-    "Cloud Practitioner/2 - Technology/Leveraging extra info services/Leveraging Machine   Learning Services.md",
-    "Map.canvas",
+    "Cloud Practitioner/2 - Technology/6 - Leveraging extra info services/Leveraging Analytics   Services.md",
+    "Cloud Practitioner/2 - Technology/6 - Leveraging extra info services/Leveraging Machine   Learning Services.md",
     "Service notes/Developer Tools/CodeCommit.md",
     "Service notes/Developer Tools/CodePipeline.md",
     "Service notes/Compute/Batch.md",
@@ -242,13 +300,8 @@
     "Service notes/Compute/Fargate.md",
     "Service notes/Compute/Lambda.md",
     "Service notes/Compute/Lightsail.md",
-    "Service notes/Compute/Outposts.md",
-    "Service notes/Content Delivery/Cloudfront.md",
-    "Service notes/Content Delivery/Global Accelerator.md",
-    "Service notes/Content Delivery/S3 Transfer Acceleration.md",
-    "Service notes/Databases/DocumentDB.md",
-    "Cloud Practitioner/2 - Technology/Leveraging extra info services",
-    "Cloud Practitioner/2 - Technology/Exploring extra tools",
+    "Cloud Practitioner/2 - Technology/6 - Leveraging extra info services",
+    "Cloud Practitioner/2 - Technology/5 - Exploring extra tools",
     "Cloud Practitioner/2 - Technology/4 - Utilizing additional services",
     "Cloud Practitioner/2 - Technology/3 - Understanding Misc Services"
   ]
